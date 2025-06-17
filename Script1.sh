@@ -4,4 +4,4 @@ echo "We are from batch-27 and learning DevOps"
 echo "I am learning branching in git" 
 echo "I am learnig git and github"
 echo "I am Swati Rahul Jaiswal"
-
+echo "I am learning azure devops"
